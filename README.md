@@ -6,7 +6,7 @@
 # Graphical Analysis and Calculating Position, Velocity and Acceleration of a Falling Particle 
 <img src="http://latex.codecogs.com/svg.latex?g&space;=&space;9.80665\frac{m}{s^2}" title="http://latex.codecogs.com/svg.latex?g = 9.80665\frac{m}{s^2}" />
 
-![freefall](https://github.com/kadirtastepe/Free-Fall/blob/master/freefall.GIF)
+![freefall](freefall.GIF)
 
 # Licence
 Released under licence: the GPL version 3 license.
